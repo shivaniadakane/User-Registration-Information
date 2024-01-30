@@ -8,7 +8,7 @@ The sql/ directory contains the SQL script for creating the 'Registration' table
 2. CRUD Operations Implementation (Python): 
 The srcipt / directory houses the Python code for CRUD operations. The main script, main.ipynb, includes functions for creating, reading, updating and deleting records in the 'Registration' table.
 
- CRUD Operations
+ CRUD Operations: 
 The main script, main.py, houses the implementation of CRUD operations for the 'Registration' table. Functions include:
 
 Create: Adds a new record to the 'Registration' table.
