@@ -1,4 +1,5 @@
-# User-Registration-Information
+# User-Registration-Database
+
 This repository provides a comprehensive demonstration of a SQL task, presenting both SQL script queries and Python code for managing a 'Registration' table. This includes the creation of the table and the implementation of CRUD (Create, Read, Update, Delete) operations.
 
  Task Overview
